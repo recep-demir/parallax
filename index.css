@@ -14,5 +14,6 @@ nav.first{
     background-attachment: fixed;
     background-size: cover;
     width: width;
+    height: auto;
 
 }
